@@ -14,7 +14,7 @@ export default function Cookies() {
         buttonStyle={{ color: "#ffffff", fontSize: "15px", background: "#3B1ED8" }}
         expires={150}
         >
-        This website uses cookies to enhance the user experience.{" "}
+        This website uses cookies to enhance the user experience and let Andrew track your ip.{" "}
         {/* <span style={{ fontSize: "10px" }}>This bit of text is smaller :O</span> */}
     </CookieConsent>
     );
